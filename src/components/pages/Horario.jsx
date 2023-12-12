@@ -50,7 +50,7 @@ const userName = currentUser ? currentUser.name : "Usuario";
 
   return (
     
-    <div >
+    <div className='fondo'>
       <header>
         <div>
           <img src={Logo} alt="logo" id="logo" />

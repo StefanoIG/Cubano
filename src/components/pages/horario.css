@@ -83,3 +83,9 @@
     }
   }
   
+  .fondo {
+    background-image: url(../../../public/fondo.jpg);
+    height: 100vh;
+    background-size: contain;
+
+  }
